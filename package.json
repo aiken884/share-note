@@ -34,5 +34,8 @@
 	"dependencies": {
 		"csso": "^5.0.5",
 		"data-uri-to-buffer": "^6.0.1"
+	},
+	"overrides": {
+		"moment": "^2.31.0"
 	}
 }
